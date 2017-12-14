@@ -47,7 +47,7 @@ displays a list of available parameters and exits properly.
  ## How to use
  
 ```
-https://github.com/IshchenkoRoman/Fractol
+git clone https://github.com/IshchenkoRoman/Fractol
 cd Fractol
 make
 ./fractol param1 param2 param3 param4
