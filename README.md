@@ -50,7 +50,7 @@ displays a list of available parameters and exits properly.
 git clone https://github.com/IshchenkoRoman/Fractol
 cd Fractol
 make
-./fractol param1 param2 param3 param4
+./fractol 1 2 3 4
 
 Where param[1 - 4] represent one of sets. Minimum count of paramters is 1.
 ```
